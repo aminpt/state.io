@@ -1,0 +1,3 @@
+C:/Users/rcc/CLionProjects/amin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rcc/CLionProjects/amin/cmake-build-debug/CMakeFiles/amin.dir
+C:/Users/rcc/CLionProjects/amin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
